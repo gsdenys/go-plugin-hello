@@ -1,0 +1,1 @@
+# go-plugin-hello
